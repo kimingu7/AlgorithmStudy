@@ -14,7 +14,7 @@
         <td>Backjoon <a href="https://www.acmicpc.net/" target="_blank">🏃</a></td>
     </tr>
 </table>
-
+<br/>
 
 
 # :man_astronaut: 스터디 멤버 
@@ -49,14 +49,12 @@
     </tr>
 </table>
 
-
+<br/>
 
 
 # :chart_with_upwards_trend: 진행 현황
 
 :new_moon: 23.06.13 까지 스터디 현황 (김민구, 신성환, 신세영, 정영록, 서정희, 노창현, 유혜민, 정영록)
-
-
 
 | 주차 |    기간     | 문제 |
 | :--- | :---------- | ------------------------------------------------------------ |
@@ -74,7 +72,7 @@
 |  12  |  5.3 - 5.9  | G3 캐슬 디펜스 https://www.acmicpc.net/problem/17135 BFS,구현,시뮬<br/>G1 스카이라인 https://www.acmicpc.net/problem/1933 우선순위큐, 자료구조<br/>G2 주사위 윷놀이 https://www.acmicpc.net/problem/17825 백트래킹,구현<br/>P5 행성터널 https://www.acmicpc.net/problem/2887<br/>P5 히스토그램에서 가장 큰 직사각형 https://www.acmicpc.net/problem/6549<br/>G4 RGB거리2 https://www.acmicpc.net/problem/17404 |
 |  13  | 6.6 - 6.12  | G4 전력난 https://www.acmicpc.net/problem/6497 최소스패닝<br/>G4 해킹 https://www.acmicpc.net/problem/10282 다익스트라<br/>G2 일요일 아침의 데이트 https://www.acmicpc.net/problem/1445 다익스트라<br/>G3 공주님의 정원 https://www.acmicpc.net/problem/2457 그리디, 정렬<br/>G2 철로 https://www.acmicpc.net/problem/13334 정렬, 우선순위큐<br/>G3 개미굴 https://www.acmicpc.net/problem/14725 자료구조, 문자열 |
 
-
+<br/>
 
 :full_moon: 23.06.14 이후 스터디 현황 (김민구, 서정희, 신성환, 신세영, 정영록)
 
@@ -83,7 +81,7 @@
 | 13   | 6.14 - 6.19 | 나무제테크<br />뮤탈리스크<br />A와B | 구현, 시뮬레이션, 자료구조<br />다이나믹 프로그래밍, 너비 우선 탐색<br />구현, 문자열, 그리디 알고리즘 | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
 |      |      |                                      |                                                              |                                                              |
 
-
+<br/>
 
 # :warning: 스터디 규칙
 
@@ -100,6 +98,8 @@
 6. 필수 문제에 대해 전체 랜덤으로 돌려서 설명하고 피드백을 받는다.
 7. 필수 문제를 풀어오지 않을 경우 가중치를 부여하여 다음 코드리뷰에서 우선권을 가지게 한다.
 
+<br/>
+
 #### - 23. 06. 14 이후
 
 1. 스터디 참가자는  매주 화요일 20:00에 실시한다.
@@ -108,7 +108,7 @@
 4. 이후, 화요일까지 코멘트로 코드리뷰를 진행하고 화요일에 공유한다.
 5. 위 사항이 제대로 지켜지지 않는 스터디원은 경고 후 제외될 수 있음을 인지한다.
 
-
+<br/>
 
 
 
