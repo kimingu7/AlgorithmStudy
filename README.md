@@ -11,7 +11,7 @@
     </tr>
     <tr>
     	<td>플랫폼</td>
-        <td>Backjoon <a herf="https://www.acmicpc.net/">🏃</a></td>
+        <td>Backjoon <a href="https://www.acmicpc.net/" target="_blank">🏃</a></td>
     </tr>
 </table>
 
