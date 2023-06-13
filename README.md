@@ -23,14 +23,14 @@
 
 <table>
     <tr>
-		<td><img src="https://avatars.githubusercontent.com/u/122415633?v=4" style="width:100px; height:100px;"></td>
+		<td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/122415633?v=4" style="width:100px; height:100px;"></td>
     	<td>etc</td>
         <td>etc</td>
     	<td>etc</td>
         <td>etc</td>
     </tr>
     <tr>
-    	<td>ShinSeongHwan</td>
+    	<td style="text-align:center">ShinSeongHwan</td>
     	<td>etc</td>
         <td>etc</td>
     	<td>etc</td>
@@ -44,6 +44,4 @@
         <td>etc</td>
     </tr>
 </table>
-
-
 
