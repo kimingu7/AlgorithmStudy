@@ -23,7 +23,7 @@
 
 <table>
     <tr>
-		<td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/122415633?v=4" style="width:100px; height:100px;"></td>
+		<td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/122415633?v=4" style="width:150px; height:150px;"></td>
     	<td>etc</td>
         <td>etc</td>
     	<td>etc</td>
