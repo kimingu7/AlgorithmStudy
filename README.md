@@ -44,6 +44,11 @@
         <td>etc</td>
     </tr>
 </table>
+<style>
+  td {
+    text-align: center;
+  }
+</style>
 
 
 
