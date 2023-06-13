@@ -17,7 +17,33 @@
 
 
 
-# :man_astronaut: 스터디 멤버
+# :man_astronaut: 스터디 멤버 
+
+:large_blue_circle: 현재 진행 중
+
+<table>
+    <tr>
+		<td><img src="https://avatars.githubusercontent.com/u/122415633?v=4" style="width:100px; height:100px;"></td>
+    	<td>etc</td>
+        <td>etc</td>
+    	<td>etc</td>
+        <td>etc</td>
+    </tr>
+    <tr>
+    	<td>ShinSeongHwan</td>
+    	<td>etc</td>
+        <td>etc</td>
+    	<td>etc</td>
+        <td>etc</td>
+    </tr>
+    <tr>
+    	<td>​:large_blue_circle:</td>
+    	<td>etc</td>
+        <td>etc</td>
+    	<td>etc</td>
+        <td>etc</td>
+    </tr>
+</table>
 
 
 
