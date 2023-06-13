@@ -37,18 +37,13 @@
         <td>etc</td>
     </tr>
     <tr>
-    	<td>​:large_blue_circle:</td>
+    	<td style="text-align:center">​:large_blue_circle:</td>
     	<td>etc</td>
         <td>etc</td>
     	<td>etc</td>
         <td>etc</td>
     </tr>
 </table>
-<style>
-  td {
-    text-align: center;
-  }
-</style>
 
 
 
