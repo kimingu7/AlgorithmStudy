@@ -24,30 +24,23 @@
 <table>
     <tr>
 		<td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/122415633?v=4" style="width:150px; height:150px;"></td>
-    	<td>etc</td>
-        <td>etc</td>
-    	<td>etc</td>
-        <td>etc</td>
-    </tr>
-    <tr>
-    	<td style="text-align:center">ShinSeongHwan</td>
-    	<td>etc</td>
-        <td>etc</td>
-    	<td>etc</td>
-        <td>etc</td>
-    </tr>
-    <tr>
-    	<td>
+    	<td>ShinSeongHwan</td>
+		<td>
             <img alt="Html" src ="https://img.shields.io/badge/스터디장-FFCC33?&style=for-the-badge&logo=gnometerminal&logoColor=white"/><br/>
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
         	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw2ny1"/></td>
+    </tr>
+    <tr>
     	<td>etc</td>
         <td>etc</td>
     	<td>etc</td>
         <td>etc</td>
     </tr>
 </table>
+
+
 <br/>
 
 
@@ -102,9 +95,10 @@
 
 1. 스터디 참가자는  매주 화요일 20:00에 실시한다.
 2. 풀 문제는 화요일 스터디가 끝난 후 다같이 3문제 결정한다.
-3. 문제는 S2 - G1 난이도로 선택하며 월요일 0:00 전 까지 풀고 Github에 업로드 한다.
-4. 이후, 화요일까지 코멘트로 코드리뷰를 진행하고 화요일에 공유한다.
-5. 위 사항이 제대로 지켜지지 않는 스터디원은 경고 후 제외될 수 있음을 인지한다.
+3. 문제는 S2 - G1 난이도로 선택하며 월요일 0:00 전 까지 본인 역량에 맞는 언어로 해결한다.
+4. 필수 문제 이 외에 해결한 문제를 업로드 하여도 상관 없다.
+5. 이후, 화요일 20:00 전 까지 코멘트로 코드리뷰를 진행하고 화요일에 공유한다.
+6. 위 사항이 제대로 지켜지지 않는 스터디원은 경고 후 제외될 수 있음을 인지한다.
 
 <br/>
 
