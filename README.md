@@ -77,10 +77,12 @@
 
 | 주차 | 기간 | 문제                                 | 난이도                             | 분류                                                         | Link                                                      |
 | ---- | ---- | :----------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| 14 | 6.14 - 6.19 | :one: 나무제테크<br />:two: 뮤탈리스크<br />:three: A와B | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> | 구현, 시뮬레이션, 자료구조<br />다이나믹 프로그래밍, 너비 우선 탐색<br />구현, 문자열, 그리디 알고리즘 | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
+| w13  | 6.14 - 6.19 | :one: 나무제테크<br />:two: 뮤탈리스크<br />:three: A와B | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> | 구현, 시뮬레이션, 자료구조<br />다이나믹 프로그래밍, 너비 우선 탐색<br />구현, 문자열, 그리디 알고리즘 | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
 |      |             |                                      |                                      |                                                              |                                                              |
 
-# 
+<br/>
+
+# :warning: 스터디 규칙
 
 #### - 23. 06. 13 이전
 
