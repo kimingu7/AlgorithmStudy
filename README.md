@@ -38,8 +38,8 @@
     </tr>
     <tr>
     	<td>
-            <img alt="Html" src ="https://img.shields.io/badge/스터디장-FFCC33?&style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+            <img alt="Html" src ="https://img.shields.io/badge/스터디장-FFCC33?&style=for-the-badge&logo=gnometerminal&logoColor=white"/><br/>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
         	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         </td>
     	<td>etc</td>
