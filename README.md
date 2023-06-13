@@ -53,8 +53,8 @@
 
 
 
-| 주차 |    기간     | 문제                                                         |
-| :--: | :---------: | :----------------------------------------------------------- |
+| 주차 |    기간     | 문제 |
+| :--- | :---------- | ------------------------------------------------------------ |
 |  1   | 2.17 - 2.21 | S1 곱셈 https://www.acmicpc.net/problem/1629<br/>S1 동물원 https://www.acmicpc.net/problem/1309<br/>S1 쿼드트리 https://www.acmicpc.net/problem/1992<br/>S2 창고 다각형 https://www.acmicpc.net/problem/2304<br/>S2 섬의 개수 https://www.acmicpc.net/problem/4963<br/>S2 DFS https://www.acmicpc.net/problem/24480<br/>S3 회전하는 큐 https://www.acmicpc.net/problem/1021<br/>S3 시리얼 번호 https://www.acmicpc.net/problem/1431<br/>S3 N과 M (1) https://www.acmicpc.net/problem/15649<br/>S4 균형잡힌 세상 https://www.acmicpc.net/problem/4949<br/>G4 문자열 폭발 https://www.acmicpc.net/problem/9935<br/>G5 빗물 https://www.acmicpc.net/problem/14719<br/>G5 적록색약 https://www.acmicpc.net/problem/10026<br/>G5 탑 https://www.acmicpc.net/problem/2493 |
 |  2   | 2.22 - 2.27 | S1 곱셈 https://www.acmicpc.net/problem/1629<br/>S1 동물원 https://www.acmicpc.net/problem/1309<br/>S1 쿼드트리 https://www.acmicpc.net/problem/1992<br/>S2 창고 다각형 https://www.acmicpc.net/problem/2304<br/>S2 섬의 개수 https://www.acmicpc.net/problem/4963<br/>S2 DFS https://www.acmicpc.net/problem/24480<br/>S3 회전하는 큐 https://www.acmicpc.net/problem/1021<br/>S3 시리얼 번호 https://www.acmicpc.net/problem/1431<br/>S3 N과 M (1) https://www.acmicpc.net/problem/15649<br/>S4 균형잡힌 세상 https://www.acmicpc.net/problem/4949<br/>G4 문자열 폭발 https://www.acmicpc.net/problem/9935<br/>G5 빗물 https://www.acmicpc.net/problem/14719<br/>G5 적록색약 https://www.acmicpc.net/problem/10026<br/>G5 탑 https://www.acmicpc.net/problem/2493 |
 |  3   | 2.28 - 3.7  | S4 색종이 - 2 https://www.acmicpc.net/problem/2567<br/>G5 로봇 청소기 https://www.acmicpc.net/problem/14503<br/>G5 톱니바퀴 https://www.acmicpc.net/problem/14891<br/>G5 치킨 배달 https://www.acmicpc.net/problem/15686<br/>G5 토마토 https://www.acmicpc.net/problem/7569<br/>G4 미세먼지 안녕! https://www.acmicpc.net/problem/17144<br/>G4 마법사 상어와 파이어볼 https://www.acmicpc.net/problem/20056<br/>S3 어린 왕자 https://www.acmicpc.net/problem/1004<br/>G5 전깃줄 https://www.acmicpc.net/problem/2565<br/>G2 어른 상어 https://www.acmicpc.net/problem/19237<br/>G2 2048(Easy) https://www.acmicpc.net/problem/12100 |
@@ -65,7 +65,7 @@
 |  8   | 4.5 - 4.11  | P4 탈옥 https://www.acmicpc.net/problem/9376 너비우선탐색, 데잌스트라<br/>G1 열쇠 https://www.acmicpc.net/problem/9328 너비우선탐색, 구현<br/>G3 우주신과의 교감 https://www.acmicpc.net/problem/1774 MST<br/>G4 친구비 https://www.acmicpc.net/problem/16562 분리집합<br/>G5 화학 실험 https://www.acmicpc.net/problem/20311 자료구조<br/>G1 구간합 https://www.acmicpc.net/problem/2042 세그먼트<br/>G3 집에 빨리 가고싶어! https://www.acmicpc.net/problem/23033 데이크스트라<br/>G5 역사 https://www.acmicpc.net/problem/1613 플로이드 워셜<br/>G3 연애혁명 https://www.acmicpc.net/problem/27498 MST |
 |  9   | 4.12 - 4.18 | G3 음악 프로그램 https://www.acmicpc.net/problem/2623 위상정렬<br/>G2 집 구하기 https://www.acmicpc.net/problem/13911 다익스트라<br/>G1 깊콘이 넘쳐흘러 https://www.acmicpc.net/problem/17420 그리디<br/>G1 다리만들기2 https://www.acmicpc.net/problem/17472 MST+BFS+UNION_FIND<br/>P5 온풍기 안녕! https://www.acmicpc.net/problem/23289 따뜻한 구현<br/>G5 CCW https://www.acmicpc.net/problem/11758 기하학<br/>G4 좋다 https://www.acmicpc.net/problem/1253 자료구조<br/>G2 청소년 상어 https://www.acmicpc.net/problem/19236 백트래킹<br/>P5 히스토그램 https://www.acmicpc.net/problem/6549 자료구조, 세그먼트 트리 |
 |  10  | 4.19 - 4.25 | P5 백조의 호수 https://www.acmicpc.net/problem/3197 너비우선탐색<br/>G1 달빛 여우 https://www.acmicpc.net/problem/16118 다익스트라<br/>G1 쓰레기 치우기 https://www.acmicpc.net/problem/1736 그리디<br/>G3 인싸의 가위바위보 https://www.acmicpc.net/problem/16986 백트래킹<br/>G4 오세준 https://www.acmicpc.net/problem/1570 구현<br/>G5 옥상 정원 꾸미기 https://www.acmicpc.net/problem/6198 자료구조 |
-|  11  | 4.26 - 5.2  | 정희 P3 달리기 https://www.acmicpc.net/problem/16930 BFS 가중치 7<br/>정희 G2 저울 https://www.acmicpc.net/problem/2437 그리디 가중치 3<br/>민구 P4 오일러 회로 https://www.acmicpc.net/problem/1199 DFS 가중치 8<br/>정희 G2 벽 부수고 이동하기 4 https://www.acmicpc.net/problem/16946 BFS 가중치 4<br/>민구 G5 감시 피하기 https://www.acmicpc.net/problem/18428 백트래킹 가중치 4<br/>민구 G2 가운데를 말해요 https://www.acmicpc.net/problem/1655 우선순위 큐 가중치 6 |
+|  11  | 4.26 - 5.2  | P3 달리기 https://www.acmicpc.net/problem/16930 BFS<br/>G2 저울 https://www.acmicpc.net/problem/2437 그리디<br/>P4 오일러 회로 https://www.acmicpc.net/problem/1199 DFS<br/>G2 벽 부수고 이동하기 4 https://www.acmicpc.net/problem/16946 BFS<br/>G5 감시 피하기 https://www.acmicpc.net/problem/18428 백트래킹4<br/>G2 가운데를 말해요 https://www.acmicpc.net/problem/1655 우선순위 큐 |
 |  12  |  5.3 - 5.9  | G3 캐슬 디펜스 https://www.acmicpc.net/problem/17135 BFS,구현,시뮬<br/>G1 스카이라인 https://www.acmicpc.net/problem/1933 우선순위큐, 자료구조<br/>G2 주사위 윷놀이 https://www.acmicpc.net/problem/17825 백트래킹,구현<br/>P5 행성터널 https://www.acmicpc.net/problem/2887<br/>P5 히스토그램에서 가장 큰 직사각형 https://www.acmicpc.net/problem/6549<br/>G4 RGB거리2 https://www.acmicpc.net/problem/17404 |
 |  13  | 6.6 - 6.12  | G4 전력난 https://www.acmicpc.net/problem/6497 최소스패닝<br/>G4 해킹 https://www.acmicpc.net/problem/10282 다익스트라<br/>G2 일요일 아침의 데이트 https://www.acmicpc.net/problem/1445 다익스트라<br/>G3 공주님의 정원 https://www.acmicpc.net/problem/2457 그리디, 정렬<br/>G2 철로 https://www.acmicpc.net/problem/13334 정렬, 우선순위큐<br/>G3 개미굴 https://www.acmicpc.net/problem/14725 자료구조, 문자열 |
 
@@ -73,8 +73,32 @@
 
 :full_moon: 23.06.14 이후 스터디 현황 (김민구, 서정희, 신성환, 신세영, 정영록)
 
-| 주차 | 기간 |                 문제                 |                             분류                             |                             주소                             |
-| :--: | :--: | :----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  13  | 6.14 | 나무제테크<br />뮤탈리스크<br />A와B | 구현, 시뮬레이션, 자료구조<br />다이나믹 프로그래밍, 너비 우선 탐색<br />구현, 문자열, 그리디 알고리즘 | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
+| 주차 | 기간 | :문제:                                 | :분류:                                                         | 주소                                                         |
+| ---- | ---- | :----------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| 13   | 6.14 - 6.19 | 나무제테크<br />뮤탈리스크<br />A와B | 구현, 시뮬레이션, 자료구조<br />다이나믹 프로그래밍, 너비 우선 탐색<br />구현, 문자열, 그리디 알고리즘 | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
 |      |      |                                      |                                                              |                                                              |
 
+
+
+# :warning: 스터디 규칙
+
+#### - 23. 06. 13 이전
+
+1. 스터디 참가자는  매주 화요일 20:00에 실시한다.
+2. 풀 문제는 화요일 스터디가 끝난 후 다같이 결정한다.
+3. 결정된 문제 중, 필수문제는 풀어와야하고 선택문제는 풀어 오는 것을 권장한다.
+4. 필수 문제에 대해서 각자 하나씩 랜덤으로 맡아서 설명하고 피드백 받는다.
+5. 위 사항이 제대로 지켜지지 않는 스터디원은 경고 후 제외될 수 있음을 인지한다.
+
+- 추가된 사항
+
+6. 필수 문제에 대해 전체 랜덤으로 돌려서 설명하고 피드백을 받는다.
+7. 필수 문제를 풀어오지 않을 경우 가중치를 부여하여 다음 코드리뷰에서 우선권을 가지게 한다.
+
+#### - 23. 06. 14 이후
+
+1. 스터디 참가자는  매주 화요일 20:00에 실시한다.
+2. 풀 문제는 화요일 스터디가 끝난 후 다같이 3문제 결정한다.
+3. 문제는 S2 - G1 난이도로 선택하며 월요일 0:00 전 까지 풀고 Github에 업로드 한다.
+4. 이후, 화요일까지 코멘트로 코드리뷰를 진행하고 화요일에 공유한다.
+5. 위 사항이 제대로 지켜지지 않는 스터디원은 경고 후 제외될 수 있음을 인지한다.
