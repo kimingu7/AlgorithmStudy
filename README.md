@@ -159,7 +159,7 @@
 
 :full_moon: 23.06.14 이후 스터디 현황 (김민구, 서정희, 신성환, 신세영, 정영록)
 
-| 주차 | 기간 | 문제                                 | 난이도                             | Link                                                      |
+| 주차 | 기간 | 문제 | 난이도                             | Link                                                      |
 | :--: | :--: | :----------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | week_14 | 6.14 - 6.19 | :one: 나무제테크<br />:two: 뮤탈리스크<br />:three: A와B | <img height="16px" width="20px" src="https://static.solved.ac/tier_small/13.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/12.svg"/><br><img height="16px" width="20px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="https://www.acmicpc.net/problem/16235">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12869">:page_facing_up:</a><br /><a href="https://www.acmicpc.net/problem/12904">:page_facing_up:</a> |
 
