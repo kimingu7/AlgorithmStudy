@@ -14,6 +14,14 @@
         <td>Backjoon <a href="https://www.acmicpc.net/" target="_blank">🏃</a></td>
     </tr>
 </table>
+<a href="https://github.com/hw2ny1/AlgorithmStudy#man_astronaut-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%A9%A4%EB%B2%84">STUDY_MEMBER</a>
+
+<a href="https://github.com/hw2ny1/AlgorithmStudy#chart_with_upwards_trend-%EC%A7%84%ED%96%89-%ED%98%84%ED%99%A9">PROGRESS</a>
+
+<a href="https://github.com/hw2ny1/AlgorithmStudy#warning-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B7%9C%EC%B9%99">STUDY_RULES</a>
+
+
+
 <br/>
 
 
