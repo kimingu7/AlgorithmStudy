@@ -117,6 +117,9 @@
     </tr>
         <tr>
         <td style="text-align:center">
+            			<a href="https://github.com/hyemco">
+				<img src="https://avatars.githubusercontent.com/u/98294357?v=4" style="width:150px; height:150px;">
+			</a>
 		</td>
     	<td>유혜민</td>
 		<td>
