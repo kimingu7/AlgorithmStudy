@@ -91,14 +91,47 @@
     </tr>
 </table>
 
+:red_circle: 현재 미참여
 
+<table>
+    <tr>
+        <td style="text-align:center">
+		</td>
+    	<td>노창현</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stubborngastropod"/></td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/balloooooon">
+				<img src="https://avatars.githubusercontent.com/u/122415795?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>방정우</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdqkd7418"/></td>
+    </tr>
+        <tr>
+        <td style="text-align:center">
+		</td>
+    	<td>유혜민</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyemco"/></td>
+    </tr>
+</table>
 
 <br/>
 
 
 # :chart_with_upwards_trend: 진행 현황
 
-:new_moon: 23.06.13 까지 스터디 현황 (김민구, 신성환, 신세영, 정영록, 서정희, 노창현, 유혜민, 정영록)
+:new_moon: 23.06.13 까지 스터디 현황 (김민구, 신성환, 신세영, 정영록, 서정희, 노창현, 유혜민, 방정우)
 
 | 주차 |    기간     | 문제 | 난이도 | Link |
 | :--: | :---------: | :----------------------------------------------------------- | :--: | :--: |
