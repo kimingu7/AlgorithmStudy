@@ -30,17 +30,64 @@
 		</td>
     	<td>ShinSeongHwan</td>
 		<td>
-            <img alt="Html" src ="https://img.shields.io/badge/스터디장-FFCC33?&style=for-the-badge&logo=gnometerminal&logoColor=white"/><br/>
+            <img alt="Html" src ="https://img.shields.io/badge/스터디장-FFA07A?&style=for-the-badge&logo=gnometerminal&logoColor=white"/><br/>
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
         	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hw2ny1"/></td>
     </tr>
     <tr>
-    	<td>etc</td>
-        <td>etc</td>
-    	<td>etc</td>
-        <td>etc</td>
+        <td style="text-align:center">
+			<a href="https://github.com/SEYOUNGSHIN07312">
+				<img src="https://avatars.githubusercontent.com/u/122415827?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>신세영</td>
+		<td>
+            <img alt="Html" src ="https://img.shields.io/badge/God-FFCC33?&style=for-the-badge&logo=odysee&logoColor=white"/><br/>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssy07312"/></td>
+    </tr>
+        <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/yryryr96">
+				<img src="https://avatars.githubusercontent.com/u/122415720?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>정영록</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evan523"/></td>
+    </tr>
+        <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/kimingu7">
+				<img src="https://avatars.githubusercontent.com/u/122415709?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>김민구</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrns"/></td>
+    </tr>
+        <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/jh2dang">
+				<img src="https://avatars.githubusercontent.com/u/122415714?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>서정희</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang"/></td>
     </tr>
 </table>
 
