@@ -96,8 +96,11 @@
 <table>
     <tr>
         <td style="text-align:center">
+			<a href="https://github.com/stubborngastropod">
+				<img src="https://avatars.githubusercontent.com/u/116616569?v=4" style="width:150px; height:150px;">
+			</a>
 		</td>
-    	<td>노창현</td>
+    	<td>NohChangHyun</td>
 		<td>
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
         </td>
@@ -121,7 +124,7 @@
 				<img src="https://avatars.githubusercontent.com/u/98294357?v=4" style="width:150px; height:150px;">
 			</a>
 		</td>
-    	<td>유혜민</td>
+    	<td>YuHyeMin</td>
 		<td>
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
         </td>
