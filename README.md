@@ -112,7 +112,7 @@
 				<img src="https://avatars.githubusercontent.com/u/122415795?v=4" style="width:150px; height:150px;">
 			</a>
 		</td>
-    	<td>방정우</td>
+    	<td>BangJungWoo</td>
 		<td>
             <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
         </td>
