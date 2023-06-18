@@ -166,9 +166,6 @@ int main() {
     }
 
     for (int i = 1; i <= K; i++) {
-        if (i == 100) {
-            i = 100;
-        }
         spring();
         summer();
         fall();
