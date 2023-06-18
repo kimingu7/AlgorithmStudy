@@ -1,8 +1,20 @@
 #include<iostream>
 #include<algorithm>
 #include<vector>
-#include<list>
-#include<ctime>
+
+/*
+처음엔 쉬울 줄 알았는데 반복문으로 계속 탐색하면서 할 경우 시간초과가 뜸
+
+따라서 나무위치와 나이를 저장할 리스트를 구현했는데 시간초과가 뜸
+
+그래서 리스트 나이별로 만들어 나무좌표만 저장하고 시간을 최대한 아끼기 위해 연결리스트 노드를 1000만개 만듬
+
+나무 나이가 110을 넘기기 힘들다고 생각했는데 넘기는 테스트케이스가 있는 것 같아서 MaxAge를 140까지 늘림
+
+정답은 맞았지만 메모리도 시간도 좋은 방법은 아닌 것같다. 오기가 생겨서 풀긴 했는데 나이별로 저장할 생각을 했는데 그냥 좌표별로 카운트할 생각을 왜 못했을까
+
+그래도 STL쓰지않고 연결리스트 구현한 해본 것은 좋은 경험이 된것 같다.
+*/
 
 #define MaxAge 140
 
@@ -10,7 +22,7 @@ using namespace std;
 
 // 연결 리스트 구현
 
-struct tree{
+struct tree {
     int x;
     int y;
     tree* next;
@@ -34,7 +46,7 @@ struct tree_list {
     tree* tail;
     int size;
 
-    void clear(){
+    void clear() {
         head = getNewTree();
         tail = head;
         size = 0;
@@ -54,7 +66,7 @@ int delta[8][2] = { {-1,-1}, {-1,0},{-1,1},{0,-1},{0,1},{1,-1},{1,0},{1,1} };
 int nourishment[11][11] = { 0, };   // 겨울에 추가되는 양분 양
 int food[11][11];                   // 땅에 남아있는 양분 양
 int temp[11][11] = { 0, };          // 죽은 나무 양분 양
-tree_list List[MaxAge+1];           // 나이마다 나무를 저장
+tree_list List[MaxAge + 1];           // 나이마다 나무를 저장
 
 void spring() {
     for (int i = 1; i <= MaxAge; i++) {
@@ -153,34 +165,16 @@ int main() {
         List[z].push(getNewTree(x, y, List[z].tail));
     }
 
-    clock_t start, end;
-    start = clock();
     for (int i = 1; i <= K; i++) {
         if (i == 100) {
             i = 100;
         }
-        //start = clock();
         spring();
-        //end = clock();
-        //cout << i << "번째 해 봄   " << end - start << "ms\n";
-
-        //start = clock();
         summer();
-        //end = clock();
-        //cout << i << "번째 해 여름 " << end - start << "ms\n";
-
-        //start = clock();
         fall();
-        //end = clock();
-        //cout << i << "번째 해 가을 " << end - start << "ms\n";
-
-        //start = clock();
         winter();
-        //end = clock();
-        //cout << i << "번째 해 겨울 " << end - start << "ms\n";
     }
-    end = clock();
-    //cout << end - start << "ms\n";
+
     int ans = 0;
     for (int i = 0; i < 110; i++) {
         ans += List[i].size;

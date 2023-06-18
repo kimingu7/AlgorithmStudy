@@ -2,19 +2,26 @@
 #include<algorithm>
 #include<vector>
 
+/*
+처음엔 그리디문제 처럼 가장 높은 체력부터 때리면 된다고 생각했으나 다른 방법이 더 빠름
+백트래킹으로 풀면 된다 생각 했으나 생각 보다 경우의 수가 많음
+그래서 중복 계산을 방지하기 위해 dp 배열
+*/
+
 using namespace std;
 
+// 중복 계산 방지를 위한 dp 배열
 int dp[61][61][61] = { 0, };
 
-// 중복 계산 방지를 위한 dp 배열
 int func(int a, int b, int c) {
-    if (a < 0)return func(0, b, c);
-    if (b < 0)return func(a, 0, c);
-    if (c < 0)return func(a, b, 0);
+    // 음수면 0
+    if (a < 0) a = 0;
+    if (b < 0) b = 0;
+    if (c < 0) c = 0;
 
     if (a == 0 && b == 0 && c == 0) return 0;
 
-    if (dp[a][b][c] != 999)return dp[a][b][c];
+    if (dp[a][b][c] != 999) return dp[a][b][c];
 
     dp[a][b][c] = min(dp[a][b][c], func(a - 9, b - 3, c - 1) + 1);
     dp[a][b][c] = min(dp[a][b][c], func(a - 9, b - 1, c - 3) + 1);
