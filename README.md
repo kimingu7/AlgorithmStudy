@@ -52,7 +52,7 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssy07312"/></td>
     </tr>
-        <tr>
+    <tr>
         <td style="text-align:center">
 			<a href="https://github.com/yryryr96">
 				<img src="https://avatars.githubusercontent.com/u/122415720?v=4" style="width:150px; height:150px;">
@@ -78,20 +78,8 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrns"/></td>
     </tr>
-        <tr>
-        <td style="text-align:center">
-			<a href="https://github.com/jh2dang">
-				<img src="https://avatars.githubusercontent.com/u/122415714?v=4" style="width:150px; height:150px;">
-			</a>
-		</td>
-    	<td>서정희</td>
-		<td>
-            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
-        	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-        </td>
-        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang"/></td>
-    </tr>
 </table>
+
 
 :red_circle: 현재 미참여
 
@@ -132,7 +120,21 @@
         </td>
         <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyemco"/></td>
     </tr>
+    <tr>
+        <td style="text-align:center">
+			<a href="https://github.com/jh2dang">
+				<img src="https://avatars.githubusercontent.com/u/122415714?v=4" style="width:150px; height:150px;">
+			</a>
+		</td>
+    	<td>서정희</td>
+		<td>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br/>
+        	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+        </td>
+        <td><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungh2dang"/></td>
+    </tr>
 </table>
+
 
 <br/>
 
@@ -159,7 +161,7 @@
 
 <br/>
 
-:full_moon: 23.06.14 이후 스터디 현황 (김민구, 서정희, 신성환, 신세영, 정영록)
+:full_moon: 23.06.14 이후 스터디 현황 (김민구, 신성환, 신세영, 정영록)
 
 | 주차 | 기간 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;문제&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 난이도                             | Link                                                      |
 | :--: | :--: | :----------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
